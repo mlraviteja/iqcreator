@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.git
 build/
 develop-eggs/
 dist/
@@ -124,6 +125,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+secrets.env
 env/
 venv/
 ENV/
